@@ -5,7 +5,7 @@ Wykanane zadanie znajduje się w klasie [Node.java](/src/main/java/com/company/N
 
 
 # Zadanie 2
-Wykonane zadanie znajduje się w klasie [Excercise2.java](/src/main/java/com/company/Excercise2.java), natomiast testy jednostkowe w klasie [Excercise2Test.java](/src/main/java/com/company/test/Excercise2Test.java).
+Wykonane zadanie znajduje się w klasie [Excercise2.java](/src/main/java/com/company/Excercise2.java), natomiast testy jednostkowe w klasie [Excercise2Test.java](/src/main/java/com/company/test/Exercise2Test.java).
 
 Separatory, które program rozróżnia w ciągu znaków odseparowując liczby do tabeli to:
 ```
